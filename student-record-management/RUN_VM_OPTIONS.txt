@@ -1,0 +1,3 @@
+JDK Used: Temurin JDK 21
+
+--module-path "C:\javafx\javafx-sdk-21\lib" --add-modules javafx.controls,javafx.fxml,javafx.media
